@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/taiga/static/css/main.229d0cf6.chunk.css",
+    "main.js": "/taiga/static/js/main.16d864dd.chunk.js",
+    "main.js.map": "/taiga/static/js/main.16d864dd.chunk.js.map",
+    "runtime-main.js": "/taiga/static/js/runtime-main.a1bf370e.js",
+    "runtime-main.js.map": "/taiga/static/js/runtime-main.a1bf370e.js.map",
+    "static/js/2.7b2665f6.chunk.js": "/taiga/static/js/2.7b2665f6.chunk.js",
+    "static/js/2.7b2665f6.chunk.js.map": "/taiga/static/js/2.7b2665f6.chunk.js.map",
+    "static/js/3.7ec85dc4.chunk.js": "/taiga/static/js/3.7ec85dc4.chunk.js",
+    "static/js/3.7ec85dc4.chunk.js.map": "/taiga/static/js/3.7ec85dc4.chunk.js.map",
+    "index.html": "/taiga/index.html",
+    "static/css/main.229d0cf6.chunk.css.map": "/taiga/static/css/main.229d0cf6.chunk.css.map",
+    "static/js/2.7b2665f6.chunk.js.LICENSE.txt": "/taiga/static/js/2.7b2665f6.chunk.js.LICENSE.txt",
+    "static/media/taiga.fb3c2a70.jpg": "/taiga/static/media/taiga.fb3c2a70.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1bf370e.js",
+    "static/js/2.7b2665f6.chunk.js",
+    "static/css/main.229d0cf6.chunk.css",
+    "static/js/main.16d864dd.chunk.js"
+  ]
+}
