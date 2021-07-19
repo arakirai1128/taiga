@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/taiga/static/css/main.229d0cf6.chunk.css",
-    "main.js": "/taiga/static/js/main.16d864dd.chunk.js",
-    "main.js.map": "/taiga/static/js/main.16d864dd.chunk.js.map",
+    "main.js": "/taiga/static/js/main.a2810f19.chunk.js",
+    "main.js.map": "/taiga/static/js/main.a2810f19.chunk.js.map",
     "runtime-main.js": "/taiga/static/js/runtime-main.a1bf370e.js",
     "runtime-main.js.map": "/taiga/static/js/runtime-main.a1bf370e.js.map",
     "static/js/2.7b2665f6.chunk.js": "/taiga/static/js/2.7b2665f6.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a1bf370e.js",
     "static/js/2.7b2665f6.chunk.js",
     "static/css/main.229d0cf6.chunk.css",
-    "static/js/main.16d864dd.chunk.js"
+    "static/js/main.a2810f19.chunk.js"
   ]
 }
